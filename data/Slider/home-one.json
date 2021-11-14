@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2, 
+    "title": "We’re your Dream Car Wash Team!",
+    "description": "",
+    "bg": "1.jpg",
+    "smallImg": "1.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }  ,
+  {
+    "id": 2, 
+    "title": "We’re your Dream Car Wash Team!",
+    "description": "",
+    "bg": "2.jpg",
+    "smallImg": "2.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }  ,
+  {
+    "id": 2, 
+    "title": "We’re your Dream Car Wash Team!",
+    "description": "",
+    "bg": "3.jpg",
+    "smallImg": "3.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }  ,
+  {
+    "id": 2, 
+    "title": "We’re your Dream Car Wash Team!",
+    "description": " ",
+    "bg": "4.jpg",
+    "smallImg": "4.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }  
+]
