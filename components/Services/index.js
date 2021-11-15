@@ -40,13 +40,13 @@ const Service = () => {
                         <div>
 
                                         
-<ol className="whychose_list">
+<ul className="imglist">
     <li class=""><a href="#">The standard you would like your cars to be</a></li>
     <li class=""><a href="#">Seasonal weather conditions</a></li>
     <li class=""><a href="#">Proximity to trees and other pollinating plants</a></li>
     <li class=""><a href="#">Distance to main road</a></li>
     <li class=""><a href="#">Length of exposure of the site</a></li>
-</ol>
+</ul>
 
                         </div>
                     </div>

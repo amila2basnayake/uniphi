@@ -6054,14 +6054,12 @@ ol {
 ol li {
   line-height: 3.4; 
   list-style-type: none;
-  counter-reset: orderedlist;
-
+  counter-increment: item;
 }
 ol li:before {
   content: counter(item);
   margin-right: 5px;
   font-size: 80%;
-  list-style-position: outside;
   background-color: #1E90FF;
   color:#1E90FF;
   font-weight: bold;
@@ -6069,27 +6067,35 @@ ol li:before {
   border-radius: 3px;
   counter-increment: orderedlist;
 }
+.imglist ul {
+  list-style-image:  url("../../assets/images/icon-blue.png");
+}
     
-     
-
-
-/* ol {
-  counter-reset: orderedlist;
+            
+.imglist li {
+  list-style: none;
+  padding-left: 50px;
+  line-height: 2.4; 
+  position: relative;
 }
 
-ol li::before {
-  line-height: 3.4; 
-  list-style-type: none;
-  counter-increment: item; 
-  margin-right: 5px;
-  font-size: 80%;
-  background-color: #1E90FF;
-  color:#1E90FF;
-  padding: 3px 8px;
-  border-radius: 3px;
-  counter-increment: orderedlist;
-  /* content: counter(orderedlist); 
-} */
+.imglist li:before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 5px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-size: contain;
+  background-image: url("../../assets/images/icon-blue.png");
+}
+    
+
+
+  
+
+    
 
 
     

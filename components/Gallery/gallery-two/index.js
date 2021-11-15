@@ -26,9 +26,9 @@ const GalleryContent  = () => {
     return (
  
         <section className={`work_section_v3`} id="work">
-            <div className="container">
+            <div className="container" style={{marginTop:50}}>
                 <div className="row">  
-
+                    <span ></span>
                     {/* Heading */}
                     <SectionTitle
                         title="Special Gallery" 

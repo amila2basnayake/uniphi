@@ -30,7 +30,7 @@ const AboutContent = () => {
                                 <p>Many Dealerships around South Australia have begun to ditch their car yard hand and instead use
                                     our service. After using our service, many have not gone back to the traditional yard hand model.
                                     Why?</p>
-                                <ol >
+                                    <ul className="imglist">
                                     <li ><a href="#">Most dealerships find our service is cheaper than hiring their own yard hand full time</a></li>
                                     <li ><a href="#">As we send in a team of yard hands, the yard is completed much quicker</a></li>
                                     <li ><a href="#">If your dealership is accessible before hours, most of the time your yard is completed prior to
@@ -39,7 +39,7 @@ const AboutContent = () => {
                                     <li ><a href="#">During the event of rain or bad weather, we simply reschedule the service to a later time</a></li>
                                     <li ><a href="#">We supply the chemicals, equipment and chamois. Saving your dealership money</a></li>
                                     <li ><a href="#">All our yard hands are experienced, in the case of a new worker they are trained amongst experienced yard hands, making them get good at what we do, quickly. This makes our quality of work really high</a></li>
-                                </ol>
+                                </ul>
 
 
                                 <br />
