@@ -8,14 +8,14 @@ const GalleryItems = ({title, thumb, tag, id}) => {
             style={{backgroundImage: `url(${('../../assets/images/' + thumb)})`}} >
                 <div className="project-hover">
                     <div className="project_cnt">
-                        <Link href={`/gallery/${id}`}> 
+                        {/* <Link href={`/gallery/${id}`}> 
                             <a className="project-link"><i className="icon-glyph-26"></i></a>
-                        </Link>
-                        <h6>
-                            <Link href={`/gallery/${id}`}> 
+                        </Link> */}
+                        {/* <h6> */}
+                            {/* <Link href={`/gallery/${id}`}> 
                                 <a>  {title} </a>
-                            </Link>
-                        </h6>
+                            </Link> */}
+                        {/* </h6> */}
                         {/* <span><a href="single-gallery.html">category : {tag}</a></span> */}
                     </div>
                 </div>

@@ -26,25 +26,25 @@ const ContactForm = () => {
                             <div className="single_con_add">
                                 <a href="#"><i className="icon-glyph-226"></i></a>
                                 <p><span>Company Address :</span>
-                                </p><p><span>3567 New Alaska, us</span>
+                                </p><p><span style={{fontSize:14}}>3567 New Alaska, us</span>
                                 </p>
                             </div>
                             <div className="single_con_add">
                                 <a href="#"><i className="icon-glyph-334"></i></a>
-                                <p><span>Email Address :</span>
-                                </p><p><span>connect2.rahan.rahman@gmail.com</span>
+                                <p><span>Email Address :</span></p>
+                                <p><span style={{fontSize:14}}>connect2.rahan.rahman@gmail.com</span>
                                 </p>
                             </div>
                             <div className="single_con_add">
                                 <a href="#"><i className="icon-glyph-33"></i></a>
                                 <p><span>Contact Us :</span>
-                                </p><p><span>+61 0407 247 886</span>
+                                </p><p><span style={{fontSize:14}}>+61 0407 247 886</span>
                                 </p>
                             </div>
                             <div className="single_con_add">
                                 <a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i></a>
                                 <p><span>Working hours :</span>
-                                </p><p><span>Mon to Fri 7am-6pm <br/>Saturdays 7am to 3pm</span>
+                                </p><p><span style={{fontSize:14}}>Mon to Fri 7am-6pm <br/>Saturdays 7am to 3pm</span>
                                 
                                 </p>
                             </div>

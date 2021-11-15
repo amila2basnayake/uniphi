@@ -11,16 +11,16 @@ const GalleryItems = ({gallery}) => {
                 <div className="project_slide_img"> 
                     <img src={`assets/images/${thumb}`} alt="product" />
                 </div>
-                <div className="project_text"> 
-                    <Link href={`/gallery/${id}`}> 
+                {/* <div className="project_text">  */}
+                    {/* <Link href={`/gallery/${id}`}> 
                         <h4> {title} </h4>
-                    </Link>
-                    <Link href="/single-shop">
+                    </Link> */}
+                    {/* <Link href="/single-shop">
                         <a className="project_link">
                             View details
                         </a>
-                    </Link>
-                </div>
+                    </Link> */}
+                {/* </div> */}
                 {/* <div className="project_view">
                     <Link href={`/gallery/${id}`}> 
                         <a className="project-link">  <i className="icon-glyph-26"></i> </a>

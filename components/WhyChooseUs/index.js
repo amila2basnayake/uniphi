@@ -60,7 +60,7 @@ const AboutContent = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-6 col-sm-12 whychose_bg" style={{ backgroundImage: `url("${('/assets/images/img251.jpg')}")` }} >
+                    <div className="col-lg-6 col-sm-12 whychose_bg" style={{ backgroundImage: `url("${('/assets/images/whychoose.jpg')}")` }} >
                         { /* Image */}
                         {/* <div className="whychose_bg" style={{ backgroundImage: `url("${('/assets/images/img251.jpg')}")` ,marginTop:161,width:625}} > </div> */}
                     </div>

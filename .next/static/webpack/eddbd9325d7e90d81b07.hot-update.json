@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/service/[id]"],"m":["./components/PageWrapper/index.js","./components/Sidebar/SidebarItem.js","./components/Sidebar/index.js","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fservice%2F%5Bid%5D&absolutePagePath=%2Fhome%2Famila%2Fmywork%2Fpro%2Funiphiweb%2Fpages%2Fservice%2F%5Bid%5D.js!","./pages/service/[id].js"]}

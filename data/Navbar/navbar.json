@@ -4,33 +4,34 @@
     "title": "Home",
     "link": "/"
   },{
-    "id": 1,
+    "id": 7,
     "title": "Services & Product",
-    "link": [
+    "link": "/",
+    "subMenu": [
       {
         "id": 7.1,
-        "title": "Gallery One",
-        "link": "/gallery"
-      },
-      {
-        "id": 7.2,
-        "title": "Gallery Two",
-        "link": "/gallery-two"
-      },    
-      {
-        "id": 7.4,
-        "title": "Service Page",
-        "link": "/service"
-      },
-      {
-        "id": 7.5,
-        "title": "Single Service",
+        "title": "Car Yard Cleaning",
         "link": "/service/1"
       },
       {
+        "id": 7.2,
+        "title": "Car Yard Soaping",
+        "link": "/service/2"
+      },    
+      {
+        "id": 7.4,
+        "title": "Car Yard Tyre - Alloys",
+        "link": "/service/3"
+      },
+      {
+        "id": 7.5,
+        "title": "Car Yard Tyre – Shine ",
+        "link": "/service/4"
+      },
+      {
         "id": 7.7,
-        "title": "About Page",
-        "link": "/about"
+        "title": "Car Detailing",
+        "link": "/service/5"
       }
     ]
   },
