@@ -20,7 +20,7 @@ function Navbar(props) {
                         {/* Logo */} 
                         <Link href="/"> 
                             <a> 
-                                <img src="../../../assets/images/logo.png" alt="" style={{width:326,marginTop:-6}} />
+                                <img src="../../../assets/images/logo.png" alt="" style={{marginTop:12}} />
                             </a> 
                         </Link>  
                     </div>

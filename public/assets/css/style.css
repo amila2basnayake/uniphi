@@ -6047,28 +6047,49 @@ p.checkout-coupon input[type="submit"] {
   margin-top: 6px;
 }
 
-
+ol {
+  counter-reset: orderedlist;
+}
        
 ol li {
   line-height: 3.4; 
   list-style-type: none;
-  counter-increment: item;
+  counter-reset: orderedlist;
+
 }
 ol li:before {
   content: counter(item);
   margin-right: 5px;
   font-size: 80%;
+  list-style-position: outside;
   background-color: #1E90FF;
   color:#1E90FF;
   font-weight: bold;
   padding: 3px 8px;
   border-radius: 3px;
+  counter-increment: orderedlist;
 }
-   
     
+     
 
 
-    
+/* ol {
+  counter-reset: orderedlist;
+}
+
+ol li::before {
+  line-height: 3.4; 
+  list-style-type: none;
+  counter-increment: item; 
+  margin-right: 5px;
+  font-size: 80%;
+  background-color: #1E90FF;
+  color:#1E90FF;
+  padding: 3px 8px;
+  border-radius: 3px;
+  counter-increment: orderedlist;
+  /* content: counter(orderedlist); 
+} */
 
 
     

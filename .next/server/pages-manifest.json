@@ -1,22 +1,6 @@
 {
   "/_app": "pages/_app.js",
-  "/about": "pages/about.html",
-  "/api/hello": "pages/api/hello.js",
-  "/blog-two": "pages/blog-two.html",
-  "/blog": "pages/blog.html",
-  "/blog/[id]": "pages/blog/[id].js",
-  "/cart": "pages/cart.html",
-  "/checkout": "pages/checkout.html",
-  "/contact": "pages/contact.html",
-  "/gallery-two": "pages/gallery-two.html",
-  "/gallery": "pages/gallery.html",
-  "/": "pages/index.html",
-  "/service": "pages/service.html",
-  "/service/[id]": "pages/service/[id].js",
-  "/shop": "pages/shop.html",
-  "/shop/[id]": "pages/shop/[id].js",
-  "/team": "pages/team.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }

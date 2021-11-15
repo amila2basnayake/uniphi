@@ -8,7 +8,7 @@ const Item = ({whychoose}) => {
             <div className="special_ser_icon"><i className={`${icon}`}></i></div>
             {/* <h4>{title}</h4>
             <p> {text} </p> */}
-            <p>Many Dealerships around South Australia have begun to ditch their car yard hand and instead use
+            {/* <p>Many Dealerships around South Australia have begun to ditch their car yard hand and instead use
 our service. After using our service, many have not gone back to the traditional yard hand model.
 Why?</p>
 <ul className="whychose_list">
@@ -25,7 +25,7 @@ work really high.</li>
 </ul>
 <h3>Still not convinced?</h3>
 <p>We have no lock in contract. Give us a go and if you’re not happy with our service there is no need to
-commit!</p>
+commit!</p> */}
         </div>
     );
 };
