@@ -49,7 +49,7 @@ const Service = () => {
 </ul>
 
                         </div>
-                    </div>
+                    </div><br/>
                     <p>Based on these factors we determine how often your yard needs to be cleaned and what days
                         during the week will best suit the dealerships needs.</p>
                         <br/>
