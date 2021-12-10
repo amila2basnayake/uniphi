@@ -34,7 +34,7 @@ const AboutContent = () => {
                                     <li ><a href="#">Most dealerships find our service is cheaper than hiring their own yard hand full time</a></li>
                                     <li ><a href="#">As we send in a team of yard hands, the yard is completed much quicker</a></li>
                                     <li ><a href="#">If your dealership is accessible before hours, most of the time your yard is completed prior to
-                                        opening (meaning you’ll never see a dirty yard!</a></li>
+                                        opening (meaning you’ll never see a dirty yard!)</a></li>
                                     <li ><a href="#">We offer multiple services that cannot be completed by a single yard hand alone</a></li>
                                     <li ><a href="#">During the event of rain or bad weather, we simply reschedule the service to a later time</a></li>
                                     <li ><a href="#">We supply the chemicals, equipment and chamois. Saving your dealership money</a></li>
