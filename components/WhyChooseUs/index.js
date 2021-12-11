@@ -22,7 +22,7 @@ const AboutContent = () => {
                             /> */}
                             <div style={{ paddingTop: 100,paddingBottom:100 }}>
                             <div className={`base-header base-header-left`} >
-                                <small style={{ color: '#1E90FF' }}>WHAT WE DO</small>
+                                <small style={{ color: '#0D72BA' }}>WHAT WE DO</small>
                                 <h3 style={{ color: 'black' }}>Why Choose Us</h3>
                             </div>
 

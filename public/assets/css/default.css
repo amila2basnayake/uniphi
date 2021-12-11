@@ -68,7 +68,7 @@ Primary use: Corporate, Business and Portfolio
 
 .slick-dots li.slick-active button {
   background: transparent;
-  border: 2px solid #1E90FF;
+  border: 2px solid #0D72BA;
   padding: 3px;
 }
 
@@ -124,7 +124,7 @@ Primary use: Corporate, Business and Portfolio
 }
 
 .slides_wrapper .slick-arrow:hover:after {
-  background: #1E90FF;
+  background: #0D72BA;
   color: #fff;
 }
 
@@ -140,7 +140,7 @@ Primary use: Corporate, Business and Portfolio
 
 
 .slider_home .slick-arrow:hover i {
-  background: #1E90FF;
+  background: #0D72BA;
 }
 
 .slider_home .slick-arrow i {
@@ -184,12 +184,12 @@ Primary use: Corporate, Business and Portfolio
 }
 
 .slider_home .slick-dots li.slick-active button {
-  border: 2px solid #1E90FF;
+  border: 2px solid #0D72BA;
   opacity: 1;
 }
 
 .slider_home .slick-dots li.slick-active button:before {
-  background: #1E90FF;
+  background: #0D72BA;
   opacity: 1;
 }
 
@@ -678,7 +678,7 @@ Primary use: Corporate, Business and Portfolio
 
 .offcanvasNavigation ul li a:hover,
 .offcanvasNavigation ul li.menuItemHasChildren a:hover {
-  color: #1E90FF;
+  color: #0D72BA;
 }
 
 .offcanvasNavigation ul li.menuItemHasChildren.active>.menuExpand i:before {
@@ -750,7 +750,7 @@ Primary use: Corporate, Business and Portfolio
 .offcanvasWrapper .header_top_right ul li i {
   font-size: 16px;
   margin-right: 10px;
-  color: #1E90FF;
+  color: #0D72BA;
 }
 
 .offcanvasWrapper .header_socil {
@@ -773,14 +773,14 @@ Primary use: Corporate, Business and Portfolio
 }
 
 .offcanvasWrapper .header_socil li a {
-  color: #1E90FF;
+  color: #0D72BA;
   margin-left: 0;
   margin-right: 10px;
   font-size: 20px;
 }
 
 .offcanvasWrapper .header_socil li a {
-  color: #1E90FF;
+  color: #0D72BA;
   font-size: 20px;
 }
 
@@ -811,6 +811,6 @@ Primary use: Corporate, Business and Portfolio
 
 .errorPage .more-link {
   margin-top: 14px;
-  background: #1E90FF;
+  background: #0D72BA;
   color: #FFF;
 }

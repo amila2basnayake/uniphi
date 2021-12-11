@@ -140,7 +140,7 @@ and have designed car cleaning protocols for over 20 dealerships in South Austra
 
         {/*  Start:Subfooter  */}
         <div className="subfooter"> 
-            <p>{new Date().getFullYear()} &copy; Design And Developed by  <Link href="/www.linkedin.com/in/amilabasnayake"> </Link>.</p> 
+            <p>{new Date().getFullYear()} &copy; Design And Developed by  <Link href="/www.linkedin.com/in/amilabasnayake"> Amila Basnayake </Link>.</p> 
         </div> 
         {/* End:Subfooter  */}
 
