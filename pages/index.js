@@ -32,7 +32,7 @@ const Home = () => {
 
         {/* <Testimonial /> */}
         {/* <Blog /> */}
-        <BrandLogo /> 
+        {/* <BrandLogo />  */}
      </LayoutOne>
 
     </Fragment>
