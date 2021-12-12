@@ -26,7 +26,7 @@ const ContactForm = () => {
                             <div className="single_con_add">
                                 <a href="#"><i className="icon-glyph-226"></i></a>
                                 <p><span>Company Address :</span>
-                                </p><p><span style={{fontSize:14}}>3567 New Alaska, us</span>
+                                </p><p><span style={{fontSize:14}}>132 Springbank Rd,Clapham 5062</span>
                                 </p>
                             </div>
                             <div className="single_con_add">

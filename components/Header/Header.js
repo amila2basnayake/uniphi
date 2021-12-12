@@ -20,9 +20,9 @@ const Header = () => {
                     <ul className="header_socil list-inline pull-left">
                         <li><i className="fa fa-envelope"></i>connect2.rahan.rahman@gmail.com</li>
                         <li>
-                            <a href="#" className="fa fa-facebook"></a>
+                            <a href="https://www.facebook.com/UniPhi-Car-Cleaning-110082951515460" className="fa fa-facebook"></a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a href="#" className="fa fa-twitter"></a>
                         </li>
                         <li>
@@ -30,7 +30,7 @@ const Header = () => {
                         </li>
                         <li>
                             <a href="#" className="fa fa-google-plus"></a>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
                 {/* <Link href="/contact">

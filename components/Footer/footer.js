@@ -22,11 +22,11 @@ and have designed car cleaning protocols for over 20 dealerships in South Austra
 
                     <div className="footer_socil" style={{fontSize:12}}>
                         <ul className="list-icons link-list footer_soc">
-                            <li> <a href="//facebook.com"><i className="fa fa-facebook"></i></a> </li>
-                            <li> <a href="//twitter.com"><i className="fa fa-twitter"></i></a> </li>
+                            <li> <a href="https://www.facebook.com/UniPhi-Car-Cleaning-110082951515460"><i className="fa fa-facebook"></i></a> </li>
+                            {/* <li> <a href="//twitter.com"><i className="fa fa-twitter"></i></a> </li>
                             <li> <a href="//instagram.com"><i className="fa fa-instagram"></i></a> </li>
                             <li> <a href="//pinterest.com"><i className="fa fa-pinterest"></i></a> </li>
-                            <li> <a href="//behance.com"><i className="fa fa-behance"></i></a> </li>
+                            <li> <a href="//behance.com"><i className="fa fa-behance"></i></a> </li> */}
                         </ul>
                     </div> 
                     </Widget> 
@@ -111,21 +111,21 @@ and have designed car cleaning protocols for over 20 dealerships in South Austra
 									<ul>
 										<li>
 											<div class="wrap">
-												<span >Call us now:</span>
-												<a >1-800-123-4567</a>
+												<span >Call us now : </span>
+												<a><span> <b>+61 407 247 886</b></span></a>
 											</div>
 										</li>
 										<li>
 											
 											<ul >
-												<li >5604 Willow Crossing Ct,</li>
-												<li>Clifton, VA, 20124</li>
+												<li >132 Springbank Rd,</li>
+												<li>Clapham 5062,</li>
 											</ul>
 										</li>
 										<li c>
 											<ul>
-												<li><time datetime="2019-07-15">Mon-Sat: 7:00am-6:00pm</time></li>
-												<li><time datetime="2019-07-15">Sun: 8:00am-5:00pm</time></li>
+												<li><time datetime="2019-07-15">Mon to Fri 7am-6pm</time></li>
+												<li><time datetime="2019-07-15">Saturdays 7am to 3pm</time></li>
 											</ul>
 										</li>
 									</ul>
