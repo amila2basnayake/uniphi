@@ -10,7 +10,7 @@ const GalleryItems = ({title, thumb, tag, id}) => {
                     <div className="project_cnt">
                         {/* <Link href={`/gallery/${id}`}> 
                             <a className="project-link"><i className="icon-glyph-26"></i></a>
-                        </Link> */}
+                        </Link> Tyre Service */}
                         {/* <h6> */}
                             {/* <Link href={`/gallery/${id}`}> 
                                 <a>  {title} </a>

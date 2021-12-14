@@ -45,7 +45,7 @@ const GalleryContent  = () => {
                     <div className='col-md-12 col-sm-12'>
                         <div className='row projects-list'>  
                             {
-                                items.slice(0,9).map((elem) => (
+                                items.slice(0,18).map((elem) => (
                                     <GalleryItems 
                                         key={elem.id} 
                                         id={elem.id} 

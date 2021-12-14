@@ -12,7 +12,7 @@
       "Express",  
       "Mongodb" 
     ],
-    "category": "Tyre Service", 
+    "category": "Yard Cleaning Service", 
     "content": "<p></p>",
     "clientName": "",
     "companyName": "",
@@ -44,116 +44,6 @@
     "Location": ""
   },
   {
-    "id": 3,
-    "title": "", 
-    "thumb": "gallaryImg/3.jpg",
-    "tag": "creative",
-    "previewImages": "single_work.jpg",
-    "filterItem": [
-      "React",  
-      "Bootstrap",  
-      "Node",  
-      "Express",  
-      "Mongodb" 
-    ],
-    "category": "Yard Soaping Service",
-    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
-    "clientName": "David Jon ",
-    "companyName": "Market ",
-    "workType": "Clean, House",
-    "projectDate": "07 Jan 2017",
-    "Budget": "$2357",
-    "Location": ""
-  },
-  {
-    "id": 4,
-    "title": "", 
-    "thumb": "gallaryImg/4.jpg",
-    "tag": "design",
-    "previewImages": "single_work.jpg",
-    "filterItem": [
-      "React",  
-      "Bootstrap",  
-      "Node",  
-      "Express",  
-      "Mongodb" 
-    ],
-    "category": "Yard Soaping Service",
-    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
-    "clientName": "David Jon ",
-    "companyName": "Market ",
-    "workType": "Clean, House", 
-    "projectDate": "07 Jan 2017",
-    "Budget": "$2357",
-    "Location": ""
-  },
-  {
-    "id": 5,
-    "title": "", 
-    "thumb": "gallaryImg/5.jpg",
-    "tag": "development",
-    "previewImages": "single_work.jpg",
-    "filterItem": [
-      "React",  
-      "Bootstrap",  
-      "Node",  
-      "Express",  
-      "Mongodb" 
-    ],
-    "category": "Yard Soaping Service",
-    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
-    "clientName": "David Jon ",
-    "companyName": "Market ",
-    "workType": "Clean, House",
-    "projectDate": "07 Jan 2017",
-    "Budget": "$2357",
-    "Location": ""
-  },
-  {
-    "id": 6,
-    "title": "", 
-    "thumb": "gallaryImg/6.jpg",
-    "tag": "strategy",
-    "previewImages": "single_work.jpg",
-    "filterItem": [
-      "React",  
-      "Bootstrap",  
-      "Node",  
-      "Express",  
-      "Mongodb" 
-    ],
-    "category": "Yard Soaping Service",
-    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
-    "clientName": "David Jon ",
-    "companyName": "Market ",
-    "workType": "Clean, House",
-    "projectDate": "07 Jan 2017",
-    "Budget": "$2357",
-    "Location": ""
-  },
-  {
-    "id": 7,
-    "title": "", 
-    "thumb": "gallaryImg/7.jpg",
-    "tag": "strategy",
-    "previewImages": "single_work.jpg",
-    "filterItem": [
-      "React",  
-      "Bootstrap",  
-      "Node",  
-      "Express",  
-      "Mongodb" 
-    ],
-    "category": "Yard Soaping Service",
-    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
-    "clientName": "David Jon",
-    "companyName": "Market",
-    "workType": "",
-    "projectDate": "07 Jan 2017",
-    "Budget": "$2357",
-    "Location": ""
-  },
-  {
     "id": 8,
     "title": "", 
     "thumb": "gallaryImg/8.jpg",
@@ -166,7 +56,7 @@
       "Express",  
       "Mongodb" 
     ],
-    "category": "Tyre Service",
+    "category": "Yard Cleaning Service",
     "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
     "clientName": "David Jon ",
     "companyName": "Market ",
@@ -188,7 +78,7 @@
       "Express",  
       "Mongodb" 
     ],
-    "category": "Tyre Service",
+    "category": "Yard Cleaning Service",
     "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
     "clientName": "David Jon ",
     "companyName": "Market ",
@@ -209,7 +99,7 @@
       "Express",  
       "Mongodb" 
     ],
-    "category": "Tyre Service",
+    "category": "Yard Cleaning Service",
     "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
     "clientName": "David Jon ",
     "companyName": "Market ",
@@ -218,6 +108,679 @@
     "Budget": "$2357",
     "Location": ""
   }
+  ,{
+    "id": 11,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/1.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 12,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/2.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 13,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/3.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 14,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/4.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 15,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/5.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 16,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/6.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 17,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/7.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 18,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/8.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 19,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/9.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 20,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/10.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  },{
+    "id": 21,
+    "title": "", 
+    "thumb": "gallaryImg/soaping/11.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Soaping Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 22,
+    "title": "", 
+    "thumb": "gallaryImg/service/1.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 23,
+    "title": "", 
+    "thumb": "gallaryImg/service/2.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 24,
+    "title": "", 
+    "thumb": "gallaryImg/service/3.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 25,
+    "title": "", 
+    "thumb": "gallaryImg/service/4.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 26,
+    "title": "", 
+    "thumb": "gallaryImg/service/5.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 27,
+    "title": "", 
+    "thumb": "gallaryImg/service/6.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 28,
+    "title": "", 
+    "thumb": "gallaryImg/service/7.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 29,
+    "title": "", 
+    "thumb": "gallaryImg/service/8.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 30,
+    "title": "", 
+    "thumb": "gallaryImg/service/9.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 31,
+    "title": "", 
+    "thumb": "gallaryImg/service/10.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 32,
+    "title": "", 
+    "thumb": "gallaryImg/service/11.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 33,
+    "title": "", 
+    "thumb": "gallaryImg/service/12.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 34,
+    "title": "", 
+    "thumb": "gallaryImg/service/13.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 35,
+    "title": "", 
+    "thumb": "gallaryImg/service/14.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 36,
+    "title": "", 
+    "thumb": "gallaryImg/service/15.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 37,
+    "title": "", 
+    "thumb": "gallaryImg/service/16.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 38,
+    "title": "", 
+    "thumb": "gallaryImg/service/17.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 39,
+    "title": "", 
+    "thumb": "gallaryImg/service/18.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 40,
+    "title": "", 
+    "thumb": "gallaryImg/service/19.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+  ,{
+    "id": 41,
+    "title": "", 
+    "thumb": "gallaryImg/service/20.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "Yard Cleaning Service",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": ""
+  }
+ 
  
  
 ]
