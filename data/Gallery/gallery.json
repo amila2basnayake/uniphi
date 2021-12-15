@@ -44,7 +44,7 @@
     "Location": ""
   },
   {
-    "id": 8,
+    "id": 3,
     "title": "", 
     "thumb": "gallaryImg/8.jpg",
     "tag": "strategy",
@@ -66,7 +66,7 @@
     "Location": ""
   },
   {
-    "id": 9,
+    "id": 4,
     "title": "", 
     "thumb": "gallaryImg/9.jpg",
     "tag": "strategy",
@@ -87,7 +87,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 10,
+    "id": 5,
     "title": "", 
     "thumb": "gallaryImg/10.jpg",
     "tag": "strategy",
@@ -109,7 +109,7 @@
     "Location": ""
   }
   ,{
-    "id": 11,
+    "id": 6,
     "title": "", 
     "thumb": "gallaryImg/soaping/1.jpg",
     "tag": "strategy",
@@ -130,7 +130,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 12,
+    "id": 7,
     "title": "", 
     "thumb": "gallaryImg/soaping/2.jpg",
     "tag": "strategy",
@@ -151,7 +151,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 13,
+    "id": 8,
     "title": "", 
     "thumb": "gallaryImg/soaping/3.jpg",
     "tag": "strategy",
@@ -172,7 +172,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 14,
+    "id": 9,
     "title": "", 
     "thumb": "gallaryImg/soaping/4.jpg",
     "tag": "strategy",
@@ -193,7 +193,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 15,
+    "id": 10,
     "title": "", 
     "thumb": "gallaryImg/soaping/5.jpg",
     "tag": "strategy",
@@ -214,7 +214,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 16,
+    "id": 11,
     "title": "", 
     "thumb": "gallaryImg/soaping/6.jpg",
     "tag": "strategy",
@@ -235,7 +235,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 17,
+    "id": 12,
     "title": "", 
     "thumb": "gallaryImg/soaping/7.jpg",
     "tag": "strategy",
@@ -256,7 +256,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 18,
+    "id": 13,
     "title": "", 
     "thumb": "gallaryImg/soaping/8.jpg",
     "tag": "strategy",
@@ -277,7 +277,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 19,
+    "id": 14,
     "title": "", 
     "thumb": "gallaryImg/soaping/9.jpg",
     "tag": "strategy",
@@ -298,7 +298,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 20,
+    "id": 15,
     "title": "", 
     "thumb": "gallaryImg/soaping/10.jpg",
     "tag": "strategy",
@@ -319,7 +319,7 @@
     "Budget": "$2357",
     "Location": ""
   },{
-    "id": 21,
+    "id": 16,
     "title": "", 
     "thumb": "gallaryImg/soaping/11.jpg",
     "tag": "strategy",
@@ -341,7 +341,7 @@
     "Location": ""
   }
   ,{
-    "id": 22,
+    "id": 17,
     "title": "", 
     "thumb": "gallaryImg/service/1.jpg",
     "tag": "strategy",
@@ -363,7 +363,7 @@
     "Location": ""
   }
   ,{
-    "id": 23,
+    "id": 18,
     "title": "", 
     "thumb": "gallaryImg/service/2.jpg",
     "tag": "strategy",
@@ -385,7 +385,7 @@
     "Location": ""
   }
   ,{
-    "id": 24,
+    "id": 19,
     "title": "", 
     "thumb": "gallaryImg/service/3.jpg",
     "tag": "strategy",
@@ -407,7 +407,7 @@
     "Location": ""
   }
   ,{
-    "id": 25,
+    "id": 20,
     "title": "", 
     "thumb": "gallaryImg/service/4.jpg",
     "tag": "strategy",
@@ -429,7 +429,7 @@
     "Location": ""
   }
   ,{
-    "id": 26,
+    "id": 21,
     "title": "", 
     "thumb": "gallaryImg/service/5.jpg",
     "tag": "strategy",
@@ -451,7 +451,7 @@
     "Location": ""
   }
   ,{
-    "id": 27,
+    "id": 22,
     "title": "", 
     "thumb": "gallaryImg/service/6.jpg",
     "tag": "strategy",
@@ -473,7 +473,7 @@
     "Location": ""
   }
   ,{
-    "id": 28,
+    "id": 23,
     "title": "", 
     "thumb": "gallaryImg/service/7.jpg",
     "tag": "strategy",
@@ -495,7 +495,7 @@
     "Location": ""
   }
   ,{
-    "id": 29,
+    "id": 24,
     "title": "", 
     "thumb": "gallaryImg/service/8.jpg",
     "tag": "strategy",
@@ -517,7 +517,7 @@
     "Location": ""
   }
   ,{
-    "id": 30,
+    "id": 25,
     "title": "", 
     "thumb": "gallaryImg/service/9.jpg",
     "tag": "strategy",
@@ -539,7 +539,7 @@
     "Location": ""
   }
   ,{
-    "id": 31,
+    "id": 26,
     "title": "", 
     "thumb": "gallaryImg/service/10.jpg",
     "tag": "strategy",
@@ -561,7 +561,7 @@
     "Location": ""
   }
   ,{
-    "id": 32,
+    "id": 27,
     "title": "", 
     "thumb": "gallaryImg/service/11.jpg",
     "tag": "strategy",
@@ -583,7 +583,7 @@
     "Location": ""
   }
   ,{
-    "id": 33,
+    "id": 28,
     "title": "", 
     "thumb": "gallaryImg/service/12.jpg",
     "tag": "strategy",
@@ -605,7 +605,7 @@
     "Location": ""
   }
   ,{
-    "id": 34,
+    "id": 29,
     "title": "", 
     "thumb": "gallaryImg/service/13.jpg",
     "tag": "strategy",
@@ -627,7 +627,7 @@
     "Location": ""
   }
   ,{
-    "id": 35,
+    "id": 30,
     "title": "", 
     "thumb": "gallaryImg/service/14.jpg",
     "tag": "strategy",
@@ -649,7 +649,7 @@
     "Location": ""
   }
   ,{
-    "id": 36,
+    "id": 31,
     "title": "", 
     "thumb": "gallaryImg/service/15.jpg",
     "tag": "strategy",
@@ -671,7 +671,7 @@
     "Location": ""
   }
   ,{
-    "id": 37,
+    "id": 32,
     "title": "", 
     "thumb": "gallaryImg/service/16.jpg",
     "tag": "strategy",
@@ -693,7 +693,7 @@
     "Location": ""
   }
   ,{
-    "id": 38,
+    "id": 33,
     "title": "", 
     "thumb": "gallaryImg/service/17.jpg",
     "tag": "strategy",
@@ -715,7 +715,7 @@
     "Location": ""
   }
   ,{
-    "id": 39,
+    "id": 34,
     "title": "", 
     "thumb": "gallaryImg/service/18.jpg",
     "tag": "strategy",
@@ -737,7 +737,7 @@
     "Location": ""
   }
   ,{
-    "id": 40,
+    "id": 35,
     "title": "", 
     "thumb": "gallaryImg/service/19.jpg",
     "tag": "strategy",
@@ -759,7 +759,7 @@
     "Location": ""
   }
   ,{
-    "id": 41,
+    "id": 36,
     "title": "", 
     "thumb": "gallaryImg/service/20.jpg",
     "tag": "strategy",
@@ -780,7 +780,5 @@
     "Budget": "$2357",
     "Location": ""
   }
- 
- 
- 
+
 ]
