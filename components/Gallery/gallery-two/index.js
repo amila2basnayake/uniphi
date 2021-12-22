@@ -30,10 +30,10 @@ const GalleryContent  = () => {
                 <div className="row">  
                     <span ></span>
                     {/* Heading */}
-                    <SectionTitle
+                    {/*  <SectionTitle
                         title="Special Gallery" 
                         subTitle=" Service features tended no do thoughts me on dissuade scarcely own are pretty spring suffer old denote his proposal speedily amr striking am now. " 
-                    />
+                    />*/} 
                     {/* End: Heading */} 
 
                     {/* Category Filter */}       
